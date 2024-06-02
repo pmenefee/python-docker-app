@@ -13,3 +13,6 @@ This will create the container and run the image within the container.
 ### Parameters
 -i: interactive
 <br />-t: pseudo terminal
+
+## Notes:
+I have included my VS Code project folder ([.vscode](https://github.com/pmenefee/python-docker-app/tree/main/.vscode)) for personal use.  Feel free to delete the folder if you do not need it.
